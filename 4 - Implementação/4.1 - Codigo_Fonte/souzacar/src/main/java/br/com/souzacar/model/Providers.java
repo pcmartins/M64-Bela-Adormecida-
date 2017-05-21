@@ -4,13 +4,14 @@ import javax.persistence.Entity;
 
 import org.springframework.stereotype.Component;
 
+//Fornecedor
+
 @Entity
 @Component
 public class Providers extends Person {
-
+	
 	public Providers() {
 		super();
 		// TODO Auto-generated constructor stub
 	}
-
 }

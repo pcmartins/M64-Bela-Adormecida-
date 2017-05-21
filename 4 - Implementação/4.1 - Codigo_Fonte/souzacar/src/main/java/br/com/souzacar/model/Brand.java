@@ -8,6 +8,8 @@ import javax.persistence.Id;
 
 import org.springframework.stereotype.Component;
 
+//Marca
+
 @Entity
 @Component
 public class Brand {

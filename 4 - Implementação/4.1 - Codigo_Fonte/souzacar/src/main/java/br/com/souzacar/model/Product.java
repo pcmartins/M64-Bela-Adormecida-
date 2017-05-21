@@ -8,6 +8,8 @@ import javax.persistence.Id;
 
 import org.springframework.stereotype.Component;
 
+//Produto
+
 @Entity
 @Component
 public class Product {

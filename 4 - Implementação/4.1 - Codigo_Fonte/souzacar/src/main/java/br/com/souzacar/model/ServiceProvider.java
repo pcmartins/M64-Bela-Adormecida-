@@ -1,20 +1,13 @@
-package br.com.souzacar.model;
-
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
-
-import org.springframework.stereotype.Component;
-
-@Entity
-@Component
-public class ServiceProvider extends Person {
-
-	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
-	private Long id;
-	
-	
-	
-}
+//package br.com.souzacar.model;
+//
+//import javax.persistence.Entity;
+//
+//import org.springframework.stereotype.Component;
+//
+////Prestador de Serviço
+//
+//@Entity
+//@Component
+//public class ServiceProvider extends Person {
+//	
+//}
