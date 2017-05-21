@@ -12,7 +12,7 @@
     <CurrencyDigits>2</CurrencyDigits>
     <CurrencySymbol>$</CurrencySymbol>
     <CurrencySymbolPosition>0</CurrencySymbolPosition>
-    <CalendarUID>41</CalendarUID>
+    <CalendarUID>44</CalendarUID>
     <DefaultStartTime>05:00:00</DefaultStartTime>
     <DefaultFinishTime>14:00:00</DefaultFinishTime>
     <MinutesPerDay>480</MinutesPerDay>
@@ -43,7 +43,7 @@
     <MoveCompletedEndsForward>0</MoveCompletedEndsForward>
     <BaselineForEarnedValue>0</BaselineForEarnedValue>
     <AutoAddNewResourcesAndTasks>1</AutoAddNewResourcesAndTasks>
-    <CurrentDate>2017-04-19T20:09:00</CurrentDate>
+    <CurrentDate>2017-05-15T19:55:00</CurrentDate>
     <MicrosoftProjectServerURL>1</MicrosoftProjectServerURL>
     <Autolink>1</Autolink>
     <NewTaskStartDate>0</NewTaskStartDate>
@@ -3285,7 +3285,7 @@
         </Calendar>
         <Calendar>
             <UID>40</UID>
-            <Name>Standard</Name>
+            <Name>Padrão[Imported][Imported][Imported][Imported][Imported][Imported][Imported][Imported][Imported][Imported][Imported][Imported][Imported]</Name>
             <IsBaseCalendar>1</IsBaseCalendar>
             <WeekDays>
                 <WeekDay>
@@ -3370,7 +3370,7 @@
         </Calendar>
         <Calendar>
             <UID>41</UID>
-            <Name>Paulo</Name>
+            <Name>24 Horas[Imported][Imported][Imported][Imported][Imported][Imported][Imported][Imported][Imported][Imported][Imported][Imported][Imported]</Name>
             <IsBaseCalendar>1</IsBaseCalendar>
             <WeekDays>
                 <WeekDay>
@@ -3455,7 +3455,7 @@
         </Calendar>
         <Calendar>
             <UID>42</UID>
-            <Name>Standard[Imported]</Name>
+            <Name>Turno da noite[Imported][Imported][Imported][Imported][Imported][Imported][Imported][Imported][Imported][Imported][Imported][Imported][Imported]</Name>
             <IsBaseCalendar>1</IsBaseCalendar>
             <WeekDays>
                 <WeekDay>
@@ -3540,7 +3540,7 @@
         </Calendar>
         <Calendar>
             <UID>43</UID>
-            <Name>Paulo[Imported]</Name>
+            <Name>Standard</Name>
             <IsBaseCalendar>1</IsBaseCalendar>
             <WeekDays>
                 <WeekDay>
@@ -3625,7 +3625,7 @@
         </Calendar>
         <Calendar>
             <UID>44</UID>
-            <Name>Standard[Imported][Imported]</Name>
+            <Name>Paulo</Name>
             <IsBaseCalendar>1</IsBaseCalendar>
             <WeekDays>
                 <WeekDay>
@@ -3710,7 +3710,7 @@
         </Calendar>
         <Calendar>
             <UID>45</UID>
-            <Name>Paulo[Imported][Imported]</Name>
+            <Name>Standard[Imported]</Name>
             <IsBaseCalendar>1</IsBaseCalendar>
             <WeekDays>
                 <WeekDay>
@@ -3795,6 +3795,261 @@
         </Calendar>
         <Calendar>
             <UID>46</UID>
+            <Name>Paulo[Imported]</Name>
+            <IsBaseCalendar>1</IsBaseCalendar>
+            <WeekDays>
+                <WeekDay>
+                    <DayType>1</DayType>
+                    <DayWorking>0</DayWorking>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>2</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>3</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>4</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>5</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>6</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>7</DayType>
+                    <DayWorking>0</DayWorking>
+                </WeekDay>
+            </WeekDays>
+        </Calendar>
+        <Calendar>
+            <UID>47</UID>
+            <Name>Standard[Imported][Imported]</Name>
+            <IsBaseCalendar>1</IsBaseCalendar>
+            <WeekDays>
+                <WeekDay>
+                    <DayType>1</DayType>
+                    <DayWorking>0</DayWorking>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>2</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>3</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>4</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>5</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>6</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>7</DayType>
+                    <DayWorking>0</DayWorking>
+                </WeekDay>
+            </WeekDays>
+        </Calendar>
+        <Calendar>
+            <UID>48</UID>
+            <Name>Paulo[Imported][Imported]</Name>
+            <IsBaseCalendar>1</IsBaseCalendar>
+            <WeekDays>
+                <WeekDay>
+                    <DayType>1</DayType>
+                    <DayWorking>0</DayWorking>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>2</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>3</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>4</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>5</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>6</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>7</DayType>
+                    <DayWorking>0</DayWorking>
+                </WeekDay>
+            </WeekDays>
+        </Calendar>
+        <Calendar>
+            <UID>49</UID>
             <Name>Standard[Imported][Imported][Imported]</Name>
             <IsBaseCalendar>1</IsBaseCalendar>
             <WeekDays>
@@ -3886,7 +4141,7 @@
             <Name>SOUZACAR</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:56:00</CreateDate>
+            <CreateDate>2016-02-20T03:56:00</CreateDate>
             <WBS>1</WBS>
             <OutlineNumber>1</OutlineNumber>
             <OutlineLevel>1</OutlineLevel>
@@ -3928,7 +4183,7 @@
             <Name>Fase 1</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:57:00</CreateDate>
+            <CreateDate>2016-02-20T03:57:00</CreateDate>
             <WBS>1.1</WBS>
             <OutlineNumber>1.1</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -3970,7 +4225,7 @@
             <Name>Marco 1</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:57:00</CreateDate>
+            <CreateDate>2016-02-20T03:57:00</CreateDate>
             <WBS>1.1.1</WBS>
             <OutlineNumber>1.1.1</OutlineNumber>
             <OutlineLevel>3</OutlineLevel>
@@ -4012,7 +4267,7 @@
             <Name>Termo de Aceite de inicio de projeto - 100%</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:58:00</CreateDate>
+            <CreateDate>2016-02-20T03:58:00</CreateDate>
             <WBS>1.1.1.1</WBS>
             <OutlineNumber>1.1.1.1</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -4054,7 +4309,7 @@
             <Name>Marcar Reunião</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:00:00</CreateDate>
+            <CreateDate>2016-02-20T03:00:00</CreateDate>
             <WBS>1.1.1.2</WBS>
             <OutlineNumber>1.1.1.2</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -4095,7 +4350,7 @@
             <Name>Realizar Reunião</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:01:00</CreateDate>
+            <CreateDate>2016-02-20T03:01:00</CreateDate>
             <WBS>1.1.1.3</WBS>
             <OutlineNumber>1.1.1.3</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -4141,7 +4396,7 @@
             <Name>Atas de Reunião</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:01:00</CreateDate>
+            <CreateDate>2016-02-20T03:01:00</CreateDate>
             <WBS>1.1.1.4</WBS>
             <OutlineNumber>1.1.1.4</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -4187,7 +4442,7 @@
             <Name>Estrutura do Projeto - 100%</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:01:00</CreateDate>
+            <CreateDate>2016-02-20T03:01:00</CreateDate>
             <WBS>1.1.1.5</WBS>
             <OutlineNumber>1.1.1.5</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -4229,7 +4484,7 @@
             <Name>Cronograma de Atividades</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-02-22T01:59:00</CreateDate>
+            <CreateDate>2017-02-21T22:59:00</CreateDate>
             <WBS>1.1.1.6</WBS>
             <OutlineNumber>1.1.1.6</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -4271,7 +4526,7 @@
             <Name>Documento de Visão - 100%</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-02-22T02:02:00</CreateDate>
+            <CreateDate>2017-02-21T23:02:00</CreateDate>
             <WBS>1.1.1.7</WBS>
             <OutlineNumber>1.1.1.7</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -4313,7 +4568,7 @@
             <Name>Marco 2</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:59:00</CreateDate>
+            <CreateDate>2016-02-20T03:59:00</CreateDate>
             <WBS>1.1.2</WBS>
             <OutlineNumber>1.1.2</OutlineNumber>
             <OutlineLevel>3</OutlineLevel>
@@ -4359,7 +4614,7 @@
             <Name>Marcar Visita</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:03:00</CreateDate>
+            <CreateDate>2016-02-20T03:03:00</CreateDate>
             <WBS>1.1.2.1</WBS>
             <OutlineNumber>1.1.2.1</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -4401,7 +4656,7 @@
             <Name>Realizar Visita</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-02-22T02:03:00</CreateDate>
+            <CreateDate>2017-02-21T23:03:00</CreateDate>
             <WBS>1.1.2.2</WBS>
             <OutlineNumber>1.1.2.2</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -4447,7 +4702,7 @@
             <Name>Modelagem de Negócio - 100%</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-02-22T02:03:00</CreateDate>
+            <CreateDate>2017-02-21T23:03:00</CreateDate>
             <WBS>1.1.2.3</WBS>
             <OutlineNumber>1.1.2.3</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -4493,7 +4748,7 @@
             <Name>Marco 3</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:59:00</CreateDate>
+            <CreateDate>2016-02-20T03:59:00</CreateDate>
             <WBS>1.1.3</WBS>
             <OutlineNumber>1.1.3</OutlineNumber>
             <OutlineLevel>3</OutlineLevel>
@@ -4539,7 +4794,7 @@
             <Name>Marcar Reunião</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-02-22T08:58:00</CreateDate>
+            <CreateDate>2017-02-22T05:58:00</CreateDate>
             <WBS>1.1.3.1</WBS>
             <OutlineNumber>1.1.3.1</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -4581,7 +4836,7 @@
             <Name>Realizar Reunião</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-02-22T08:58:00</CreateDate>
+            <CreateDate>2017-02-22T05:58:00</CreateDate>
             <WBS>1.1.3.2</WBS>
             <OutlineNumber>1.1.3.2</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -4623,7 +4878,7 @@
             <Name>Requisitos</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:03:00</CreateDate>
+            <CreateDate>2016-02-20T03:03:00</CreateDate>
             <WBS>1.1.3.3</WBS>
             <OutlineNumber>1.1.3.3</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -4669,7 +4924,7 @@
             <Name>Requisitos de Negócio - 100%</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:04:00</CreateDate>
+            <CreateDate>2016-02-20T03:04:00</CreateDate>
             <WBS>1.1.3.3.1</WBS>
             <OutlineNumber>1.1.3.3.1</OutlineNumber>
             <OutlineLevel>5</OutlineLevel>
@@ -4711,7 +4966,7 @@
             <Name>Requisitos Funcionais</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:04:00</CreateDate>
+            <CreateDate>2016-02-20T03:04:00</CreateDate>
             <WBS>1.1.3.3.2</WBS>
             <OutlineNumber>1.1.3.3.2</OutlineNumber>
             <OutlineLevel>5</OutlineLevel>
@@ -4757,7 +5012,7 @@
             <Name>Agregador - 100%</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:04:00</CreateDate>
+            <CreateDate>2016-02-20T03:04:00</CreateDate>
             <WBS>1.1.3.3.2.1</WBS>
             <OutlineNumber>1.1.3.3.2.1</OutlineNumber>
             <OutlineLevel>6</OutlineLevel>
@@ -4799,7 +5054,7 @@
             <Name>Usuário - 25%</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:04:00</CreateDate>
+            <CreateDate>2016-02-20T03:04:00</CreateDate>
             <WBS>1.1.3.3.2.2</WBS>
             <OutlineNumber>1.1.3.3.2.2</OutlineNumber>
             <OutlineLevel>6</OutlineLevel>
@@ -4841,7 +5096,7 @@
             <Name>Sub-Função - 25%</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:04:00</CreateDate>
+            <CreateDate>2016-02-20T03:04:00</CreateDate>
             <WBS>1.1.3.3.2.3</WBS>
             <OutlineNumber>1.1.3.3.2.3</OutlineNumber>
             <OutlineLevel>6</OutlineLevel>
@@ -4883,7 +5138,7 @@
             <Name>Requisitos Não Funcionais - 100%</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:05:00</CreateDate>
+            <CreateDate>2016-02-20T03:05:00</CreateDate>
             <WBS>1.1.3.3.3</WBS>
             <OutlineNumber>1.1.3.3.3</OutlineNumber>
             <OutlineLevel>5</OutlineLevel>
@@ -4929,7 +5184,7 @@
             <Name>Requisitos Inversos - 100%</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:05:00</CreateDate>
+            <CreateDate>2016-02-20T03:05:00</CreateDate>
             <WBS>1.1.3.3.4</WBS>
             <OutlineNumber>1.1.3.3.4</OutlineNumber>
             <OutlineLevel>5</OutlineLevel>
@@ -4975,7 +5230,7 @@
             <Name>Requisitos de Transição - 100%</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:06:00</CreateDate>
+            <CreateDate>2016-02-20T03:06:00</CreateDate>
             <WBS>1.1.3.3.5</WBS>
             <OutlineNumber>1.1.3.3.5</OutlineNumber>
             <OutlineLevel>5</OutlineLevel>
@@ -5021,7 +5276,7 @@
             <Name>Protótipos de Tela funcionais - 25%</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:06:00</CreateDate>
+            <CreateDate>2016-02-20T03:06:00</CreateDate>
             <WBS>1.1.3.4</WBS>
             <OutlineNumber>1.1.3.4</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -5067,7 +5322,7 @@
             <Name>Termo de Aceite de congelamento de requisitos e protótipos - 100%</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:06:00</CreateDate>
+            <CreateDate>2016-02-20T03:06:00</CreateDate>
             <WBS>1.1.3.5</WBS>
             <OutlineNumber>1.1.3.5</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -5113,7 +5368,7 @@
             <Name>Entrega</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:59:00</CreateDate>
+            <CreateDate>2016-02-20T03:59:00</CreateDate>
             <WBS>1.1.4</WBS>
             <OutlineNumber>1.1.4</OutlineNumber>
             <OutlineLevel>3</OutlineLevel>
@@ -5159,7 +5414,7 @@
             <Name>Diagrama de Caso de Uso 25%</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:12:00</CreateDate>
+            <CreateDate>2016-02-20T03:12:00</CreateDate>
             <WBS>1.1.4.1</WBS>
             <OutlineNumber>1.1.4.1</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -5201,7 +5456,7 @@
             <Name>Relatório de não conformidades conhecidas - 100%</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:12:00</CreateDate>
+            <CreateDate>2016-02-20T03:12:00</CreateDate>
             <WBS>1.1.4.2</WBS>
             <OutlineNumber>1.1.4.2</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -5243,7 +5498,7 @@
             <Name>Modelo Conceitual de Dados - 100%</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:13:00</CreateDate>
+            <CreateDate>2016-02-20T03:13:00</CreateDate>
             <WBS>1.1.4.3</WBS>
             <OutlineNumber>1.1.4.3</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -5285,7 +5540,7 @@
             <Name>Planilha de Contagem de Ponto de função - 100%</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:13:00</CreateDate>
+            <CreateDate>2016-02-20T03:13:00</CreateDate>
             <WBS>1.1.4.4</WBS>
             <OutlineNumber>1.1.4.4</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -5327,7 +5582,7 @@
             <Name>Sumário de Entrega da Fase 1 - 100%</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:13:00</CreateDate>
+            <CreateDate>2016-02-20T03:13:00</CreateDate>
             <WBS>1.1.4.5</WBS>
             <OutlineNumber>1.1.4.5</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -5369,7 +5624,7 @@
             <Name>Atas de Reunião - 100%</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:14:00</CreateDate>
+            <CreateDate>2016-02-20T03:14:00</CreateDate>
             <WBS>1.1.4.6</WBS>
             <OutlineNumber>1.1.4.6</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -5411,7 +5666,7 @@
             <Name>Fase 2</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:58:00</CreateDate>
+            <CreateDate>2016-02-20T03:58:00</CreateDate>
             <WBS>1.2</WBS>
             <OutlineNumber>1.2</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -5457,7 +5712,7 @@
             <Name>Marco 1</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T14:57:00</CreateDate>
+            <CreateDate>2017-04-12T11:57:00</CreateDate>
             <WBS>1.2.1</WBS>
             <OutlineNumber>1.2.1</OutlineNumber>
             <OutlineLevel>3</OutlineLevel>
@@ -5499,7 +5754,7 @@
             <Name>Especificação de Arquitetura</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T14:58:00</CreateDate>
+            <CreateDate>2017-04-12T11:58:00</CreateDate>
             <WBS>1.2.1.1</WBS>
             <OutlineNumber>1.2.1.1</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -5541,7 +5796,7 @@
             <Name>Diagrama de Classes de Entidades</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T14:58:00</CreateDate>
+            <CreateDate>2017-04-12T11:58:00</CreateDate>
             <WBS>1.2.1.2</WBS>
             <OutlineNumber>1.2.1.2</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -5583,7 +5838,7 @@
             <Name>Diagrama de Entidades e Relacionamento Nível Físico</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T14:59:00</CreateDate>
+            <CreateDate>2017-04-12T11:59:00</CreateDate>
             <WBS>1.2.1.3</WBS>
             <OutlineNumber>1.2.1.3</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -5625,7 +5880,7 @@
             <Name>Atualização do cronograma e EAP</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:00:00</CreateDate>
+            <CreateDate>2017-04-12T12:00:00</CreateDate>
             <WBS>1.2.1.4</WBS>
             <OutlineNumber>1.2.1.4</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -5667,7 +5922,7 @@
             <Name>Entrega 2.0.1-SNAPSHOT</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:00:00</CreateDate>
+            <CreateDate>2017-04-12T12:00:00</CreateDate>
             <WBS>1.2.1.5</WBS>
             <OutlineNumber>1.2.1.5</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -5709,7 +5964,7 @@
             <Name>Marco 2</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T14:57:00</CreateDate>
+            <CreateDate>2017-04-12T11:57:00</CreateDate>
             <WBS>1.2.2</WBS>
             <OutlineNumber>1.2.2</OutlineNumber>
             <OutlineLevel>3</OutlineLevel>
@@ -5755,7 +6010,7 @@
             <Name>Diagrama de classes BCE por caso de uso agregador</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:01:00</CreateDate>
+            <CreateDate>2017-04-12T12:01:00</CreateDate>
             <WBS>1.2.2.1</WBS>
             <OutlineNumber>1.2.2.1</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -5797,7 +6052,7 @@
             <Name>Código fonte do back-end e front-end</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:02:00</CreateDate>
+            <CreateDate>2017-04-12T12:02:00</CreateDate>
             <WBS>1.2.2.2</WBS>
             <OutlineNumber>1.2.2.2</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -5839,7 +6094,7 @@
             <Name>Script de criação/alteração do banco de dados</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:02:00</CreateDate>
+            <CreateDate>2017-04-12T12:02:00</CreateDate>
             <WBS>1.2.2.3</WBS>
             <OutlineNumber>1.2.2.3</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -5881,7 +6136,7 @@
             <Name>Relatório de execução dos testes unitários e de integração</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:03:00</CreateDate>
+            <CreateDate>2017-04-12T12:03:00</CreateDate>
             <WBS>1.2.2.4</WBS>
             <OutlineNumber>1.2.2.4</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -5923,7 +6178,7 @@
             <Name>Entrega 2.0.2-SNAPSHOT</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:03:00</CreateDate>
+            <CreateDate>2017-04-12T12:03:00</CreateDate>
             <WBS>1.2.2.5</WBS>
             <OutlineNumber>1.2.2.5</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -5965,7 +6220,7 @@
             <Name>Marco 3</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T14:57:00</CreateDate>
+            <CreateDate>2017-04-12T11:57:00</CreateDate>
             <WBS>1.2.3</WBS>
             <OutlineNumber>1.2.3</OutlineNumber>
             <OutlineLevel>3</OutlineLevel>
@@ -6011,7 +6266,7 @@
             <Name>Diagrama de classes BCE por caso de uso agregador</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:03:00</CreateDate>
+            <CreateDate>2017-04-12T12:03:00</CreateDate>
             <WBS>1.2.3.1</WBS>
             <OutlineNumber>1.2.3.1</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -6053,7 +6308,7 @@
             <Name>Código fonte do back-end e front-end</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:04:00</CreateDate>
+            <CreateDate>2017-04-12T12:04:00</CreateDate>
             <WBS>1.2.3.2</WBS>
             <OutlineNumber>1.2.3.2</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -6095,7 +6350,7 @@
             <Name>Script de criação/alteração do banco de dados</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:04:00</CreateDate>
+            <CreateDate>2017-04-12T12:04:00</CreateDate>
             <WBS>1.2.3.3</WBS>
             <OutlineNumber>1.2.3.3</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -6137,7 +6392,7 @@
             <Name>Relatório de execução dos testes unitários e de integração</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:05:00</CreateDate>
+            <CreateDate>2017-04-12T12:05:00</CreateDate>
             <WBS>1.2.3.4</WBS>
             <OutlineNumber>1.2.3.4</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -6179,7 +6434,7 @@
             <Name>Entrega 2.0.3-SNAPSHOT</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:05:00</CreateDate>
+            <CreateDate>2017-04-12T12:05:00</CreateDate>
             <WBS>1.2.3.5</WBS>
             <OutlineNumber>1.2.3.5</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -6221,7 +6476,7 @@
             <Name>Marco 4</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T14:57:00</CreateDate>
+            <CreateDate>2017-04-12T11:57:00</CreateDate>
             <WBS>1.2.4</WBS>
             <OutlineNumber>1.2.4</OutlineNumber>
             <OutlineLevel>3</OutlineLevel>
@@ -6267,7 +6522,7 @@
             <Name>Diagrama de classes BCE por caso de uso agregador</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:05:00</CreateDate>
+            <CreateDate>2017-04-12T12:05:00</CreateDate>
             <WBS>1.2.4.1</WBS>
             <OutlineNumber>1.2.4.1</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -6309,7 +6564,7 @@
             <Name>Código fonte do back-end e front-end</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:05:00</CreateDate>
+            <CreateDate>2017-04-12T12:05:00</CreateDate>
             <WBS>1.2.4.2</WBS>
             <OutlineNumber>1.2.4.2</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -6351,7 +6606,7 @@
             <Name>Script de criação/alteração do banco de dados</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:06:00</CreateDate>
+            <CreateDate>2017-04-12T12:06:00</CreateDate>
             <WBS>1.2.4.3</WBS>
             <OutlineNumber>1.2.4.3</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -6393,7 +6648,7 @@
             <Name>Relatório de execução dos testes unitários e de integração</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:06:00</CreateDate>
+            <CreateDate>2017-04-12T12:06:00</CreateDate>
             <WBS>1.2.4.4</WBS>
             <OutlineNumber>1.2.4.4</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -6435,7 +6690,7 @@
             <Name>Entrega 2.0.4-SNAPSHOT</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:06:00</CreateDate>
+            <CreateDate>2017-04-12T12:06:00</CreateDate>
             <WBS>1.2.4.5</WBS>
             <OutlineNumber>1.2.4.5</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -6477,7 +6732,7 @@
             <Name>Marco 5</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T14:58:00</CreateDate>
+            <CreateDate>2017-04-12T11:58:00</CreateDate>
             <WBS>1.2.5</WBS>
             <OutlineNumber>1.2.5</OutlineNumber>
             <OutlineLevel>3</OutlineLevel>
@@ -6523,7 +6778,7 @@
             <Name>Diagrama de classes BCE por caso de uso agregador</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:07:00</CreateDate>
+            <CreateDate>2017-04-12T12:07:00</CreateDate>
             <WBS>1.2.5.1</WBS>
             <OutlineNumber>1.2.5.1</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -6565,7 +6820,7 @@
             <Name>Código fonte do back-end e front-end</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:07:00</CreateDate>
+            <CreateDate>2017-04-12T12:07:00</CreateDate>
             <WBS>1.2.5.2</WBS>
             <OutlineNumber>1.2.5.2</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -6607,7 +6862,7 @@
             <Name>Script de criação/alteração do banco de dados</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:07:00</CreateDate>
+            <CreateDate>2017-04-12T12:07:00</CreateDate>
             <WBS>1.2.5.3</WBS>
             <OutlineNumber>1.2.5.3</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -6649,7 +6904,7 @@
             <Name>Relatório de execução dos testes unitários e de integração;</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:08:00</CreateDate>
+            <CreateDate>2017-04-12T12:08:00</CreateDate>
             <WBS>1.2.5.4</WBS>
             <OutlineNumber>1.2.5.4</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -6691,7 +6946,7 @@
             <Name>Ata de reunião de apresentação do produto com 100PF</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:08:00</CreateDate>
+            <CreateDate>2017-04-12T12:08:00</CreateDate>
             <WBS>1.2.5.5</WBS>
             <OutlineNumber>1.2.5.5</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -6733,7 +6988,7 @@
             <Name>Atualização da Planilha de contagem de Pontos de Função (APF)</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:09:00</CreateDate>
+            <CreateDate>2017-04-12T12:09:00</CreateDate>
             <WBS>1.2.5.6</WBS>
             <OutlineNumber>1.2.5.6</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -6775,7 +7030,7 @@
             <Name>Entrega 2.0.X-RELEASE</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:09:00</CreateDate>
+            <CreateDate>2017-04-12T12:09:00</CreateDate>
             <WBS>1.2.5.7</WBS>
             <OutlineNumber>1.2.5.7</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -6817,7 +7072,7 @@
             <Name>Pós validação</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:09:00</CreateDate>
+            <CreateDate>2017-04-12T12:09:00</CreateDate>
             <WBS>1.2.5.8</WBS>
             <OutlineNumber>1.2.5.8</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
@@ -6859,7 +7114,7 @@
             <Name>Sumário da entrega da Fase 2</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:10:00</CreateDate>
+            <CreateDate>2017-04-12T12:10:00</CreateDate>
             <WBS>1.2.5.8.1</WBS>
             <OutlineNumber>1.2.5.8.1</OutlineNumber>
             <OutlineLevel>5</OutlineLevel>
@@ -6901,7 +7156,7 @@
             <Name>Relatório de não conformidades conhecidas</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:10:00</CreateDate>
+            <CreateDate>2017-04-12T12:10:00</CreateDate>
             <WBS>1.2.5.8.2</WBS>
             <OutlineNumber>1.2.5.8.2</OutlineNumber>
             <OutlineLevel>5</OutlineLevel>
@@ -6943,7 +7198,7 @@
             <Name>Link de acesso (Web) / Download produto (Win32)</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2017-04-12T15:10:00</CreateDate>
+            <CreateDate>2017-04-12T12:10:00</CreateDate>
             <WBS>1.2.5.8.3</WBS>
             <OutlineNumber>1.2.5.8.3</OutlineNumber>
             <OutlineLevel>5</OutlineLevel>
@@ -6985,7 +7240,7 @@
             <Name>Fase 3</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:58:00</CreateDate>
+            <CreateDate>2016-02-20T03:58:00</CreateDate>
             <WBS>1.3</WBS>
             <OutlineNumber>1.3</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -7031,7 +7286,7 @@
             <Name>Fase 4</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2016-02-20T05:58:00</CreateDate>
+            <CreateDate>2016-02-20T03:58:00</CreateDate>
             <WBS>1.4</WBS>
             <OutlineNumber>1.4</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -7115,7 +7370,7 @@
             <AccrueAt>3</AccrueAt>
             <StandardRateFormat>3</StandardRateFormat>
             <OvertimeRateFormat>3</OvertimeRateFormat>
-            <CalendarUID>47</CalendarUID>
+            <CalendarUID>50</CalendarUID>
             <IsGeneric>0</IsGeneric>
             <IsInactive>0</IsInactive>
             <IsEnterprise>0</IsEnterprise>
@@ -7130,12 +7385,12 @@
             <Finish>2018-05-09T14:00:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT2613H0M0S</RemainingWork>
+            <RemainingWork>PT2221H0M0S</RemainingWork>
             <Start>2017-02-07T08:00:00</Start>
             <Stop>1969-12-31T21:00:00</Stop>
             <Resume>1969-12-31T21:00:00</Resume>
             <Units>1</Units>
-            <Work>PT2613H0M0S</Work>
+            <Work>PT2221H0M0S</Work>
             <WorkContour>0</WorkContour>
             <TimephasedData>
                 <Type>1</Type>
@@ -9079,350 +9334,7 @@
             <TimephasedData>
                 <Type>1</Type>
                 <Start>2018-03-01T07:00:00</Start>
-                <Finish>2018-03-02T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-02T07:00:00</Start>
-                <Finish>2018-03-03T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-05T07:00:00</Start>
-                <Finish>2018-03-06T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-06T07:00:00</Start>
-                <Finish>2018-03-07T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-07T07:00:00</Start>
-                <Finish>2018-03-08T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-08T07:00:00</Start>
-                <Finish>2018-03-09T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-09T07:00:00</Start>
-                <Finish>2018-03-10T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-12T07:00:00</Start>
-                <Finish>2018-03-13T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-13T07:00:00</Start>
-                <Finish>2018-03-14T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-14T07:00:00</Start>
-                <Finish>2018-03-15T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-15T07:00:00</Start>
-                <Finish>2018-03-16T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-16T07:00:00</Start>
-                <Finish>2018-03-17T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-19T07:00:00</Start>
-                <Finish>2018-03-20T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-20T07:00:00</Start>
-                <Finish>2018-03-21T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-21T07:00:00</Start>
-                <Finish>2018-03-22T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-22T07:00:00</Start>
-                <Finish>2018-03-23T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-23T07:00:00</Start>
-                <Finish>2018-03-24T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-26T07:00:00</Start>
-                <Finish>2018-03-27T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-27T07:00:00</Start>
-                <Finish>2018-03-28T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-28T07:00:00</Start>
-                <Finish>2018-03-29T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-29T07:00:00</Start>
-                <Finish>2018-03-30T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-03-30T07:00:00</Start>
-                <Finish>2018-03-31T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-02T07:00:00</Start>
-                <Finish>2018-04-03T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-03T07:00:00</Start>
-                <Finish>2018-04-04T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-04T07:00:00</Start>
-                <Finish>2018-04-05T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-05T07:00:00</Start>
-                <Finish>2018-04-06T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-06T07:00:00</Start>
-                <Finish>2018-04-07T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-09T07:00:00</Start>
-                <Finish>2018-04-10T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-10T07:00:00</Start>
-                <Finish>2018-04-11T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-11T07:00:00</Start>
-                <Finish>2018-04-12T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-12T07:00:00</Start>
-                <Finish>2018-04-13T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-13T07:00:00</Start>
-                <Finish>2018-04-14T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-16T07:00:00</Start>
-                <Finish>2018-04-17T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-17T07:00:00</Start>
-                <Finish>2018-04-18T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-18T07:00:00</Start>
-                <Finish>2018-04-19T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-19T07:00:00</Start>
-                <Finish>2018-04-20T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-20T07:00:00</Start>
-                <Finish>2018-04-21T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-23T07:00:00</Start>
-                <Finish>2018-04-24T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-24T07:00:00</Start>
-                <Finish>2018-04-25T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-25T07:00:00</Start>
-                <Finish>2018-04-26T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-26T07:00:00</Start>
-                <Finish>2018-04-27T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-27T07:00:00</Start>
-                <Finish>2018-04-28T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-04-30T07:00:00</Start>
-                <Finish>2018-05-01T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-05-01T07:00:00</Start>
-                <Finish>2018-05-02T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-05-02T07:00:00</Start>
-                <Finish>2018-05-03T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-05-03T07:00:00</Start>
-                <Finish>2018-05-04T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-05-04T07:00:00</Start>
-                <Finish>2018-05-05T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-05-07T07:00:00</Start>
-                <Finish>2018-05-08T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-05-08T07:00:00</Start>
-                <Finish>2018-05-09T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2018-05-09T07:00:00</Start>
-                <Finish>2018-05-09T21:00:00</Finish>
+                <Finish>2018-03-01T21:00:00</Finish>
                 <Unit>3</Unit>
                 <Value>PT5H0M0S</Value>
             </TimephasedData>
@@ -9433,12 +9345,12 @@
             <Finish>2017-04-09T17:00:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT352H0M0S</RemainingWork>
+            <RemainingWork>PT272H0M0S</RemainingWork>
             <Start>2017-02-07T08:00:00</Start>
             <Stop>1969-12-31T21:00:00</Stop>
             <Resume>1969-12-31T21:00:00</Resume>
             <Units>1</Units>
-            <Work>PT352H0M0S</Work>
+            <Work>PT272H0M0S</Work>
             <WorkContour>0</WorkContour>
             <TimephasedData>
                 <Type>1</Type>
@@ -9674,77 +9586,7 @@
             <TimephasedData>
                 <Type>1</Type>
                 <Start>2017-03-24T07:00:00</Start>
-                <Finish>2017-03-25T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-27T07:00:00</Start>
-                <Finish>2017-03-28T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-28T07:00:00</Start>
-                <Finish>2017-03-29T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-29T07:00:00</Start>
-                <Finish>2017-03-30T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-30T07:00:00</Start>
-                <Finish>2017-03-31T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-31T07:00:00</Start>
-                <Finish>2017-04-01T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-03T07:00:00</Start>
-                <Finish>2017-04-04T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-04T07:00:00</Start>
-                <Finish>2017-04-05T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-05T07:00:00</Start>
-                <Finish>2017-04-06T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-06T07:00:00</Start>
-                <Finish>2017-04-07T07:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-07T07:00:00</Start>
-                <Finish>2017-04-08T00:00:00</Finish>
+                <Finish>2017-03-25T00:00:00</Finish>
                 <Unit>3</Unit>
                 <Value>PT8H0M0S</Value>
             </TimephasedData>
@@ -10390,12 +10232,12 @@
             <Finish>2017-04-02T17:00:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT144H0M0S</RemainingWork>
+            <RemainingWork>PT48H0M0S</RemainingWork>
             <Start>2017-03-08T08:00:00</Start>
             <Stop>1969-12-31T21:00:00</Stop>
             <Resume>1969-12-31T21:00:00</Resume>
             <Units>1</Units>
-            <Work>PT144H0M0S</Work>
+            <Work>PT48H0M0S</Work>
             <WorkContour>0</WorkContour>
             <TimephasedData>
                 <Type>1</Type>
@@ -10435,91 +10277,7 @@
             <TimephasedData>
                 <Type>1</Type>
                 <Start>2017-03-15T05:00:00</Start>
-                <Finish>2017-03-16T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-16T05:00:00</Start>
-                <Finish>2017-03-17T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-17T05:00:00</Start>
-                <Finish>2017-03-18T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-20T05:00:00</Start>
-                <Finish>2017-03-21T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-21T05:00:00</Start>
-                <Finish>2017-03-22T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-22T05:00:00</Start>
-                <Finish>2017-03-23T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-23T05:00:00</Start>
-                <Finish>2017-03-24T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-24T05:00:00</Start>
-                <Finish>2017-03-25T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-27T05:00:00</Start>
-                <Finish>2017-03-28T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-28T05:00:00</Start>
-                <Finish>2017-03-29T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-29T05:00:00</Start>
-                <Finish>2017-03-30T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-30T05:00:00</Start>
-                <Finish>2017-03-31T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-31T05:00:00</Start>
-                <Finish>2017-03-31T22:00:00</Finish>
+                <Finish>2017-03-15T22:00:00</Finish>
                 <Unit>3</Unit>
                 <Value>PT8H0M0S</Value>
             </TimephasedData>
@@ -10894,12 +10652,12 @@
             <Finish>2017-04-09T17:00:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT112H0M0S</RemainingWork>
+            <RemainingWork>PT32H0M0S</RemainingWork>
             <Start>2017-03-21T08:00:00</Start>
             <Stop>1969-12-31T21:00:00</Stop>
             <Resume>1969-12-31T21:00:00</Resume>
             <Units>1</Units>
-            <Work>PT112H0M0S</Work>
+            <Work>PT32H0M0S</Work>
             <WorkContour>0</WorkContour>
             <TimephasedData>
                 <Type>1</Type>
@@ -10925,77 +10683,7 @@
             <TimephasedData>
                 <Type>1</Type>
                 <Start>2017-03-24T05:00:00</Start>
-                <Finish>2017-03-25T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-27T05:00:00</Start>
-                <Finish>2017-03-28T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-28T05:00:00</Start>
-                <Finish>2017-03-29T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-29T05:00:00</Start>
-                <Finish>2017-03-30T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-30T05:00:00</Start>
-                <Finish>2017-03-31T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-03-31T05:00:00</Start>
-                <Finish>2017-04-01T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-03T05:00:00</Start>
-                <Finish>2017-04-04T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-04T05:00:00</Start>
-                <Finish>2017-04-05T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-05T05:00:00</Start>
-                <Finish>2017-04-06T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-06T05:00:00</Start>
-                <Finish>2017-04-07T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-07T05:00:00</Start>
-                <Finish>2017-04-07T22:00:00</Finish>
+                <Finish>2017-03-24T22:00:00</Finish>
                 <Unit>3</Unit>
                 <Value>PT8H0M0S</Value>
             </TimephasedData>
@@ -11678,12 +11366,12 @@
             <Finish>2017-06-09T14:00:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT437H0M0S</RemainingWork>
+            <RemainingWork>PT40H0M0S</RemainingWork>
             <Start>2017-03-27T08:00:00</Start>
             <Stop>1969-12-31T21:00:00</Stop>
             <Resume>1969-12-31T21:00:00</Resume>
             <Units>1</Units>
-            <Work>PT437H0M0S</Work>
+            <Work>PT40H0M0S</Work>
             <WorkContour>0</WorkContour>
             <TimephasedData>
                 <Type>1</Type>
@@ -11716,359 +11404,9 @@
             <TimephasedData>
                 <Type>1</Type>
                 <Start>2017-03-31T05:00:00</Start>
-                <Finish>2017-04-01T05:00:00</Finish>
+                <Finish>2017-03-31T22:00:00</Finish>
                 <Unit>3</Unit>
                 <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-03T05:00:00</Start>
-                <Finish>2017-04-04T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-04T05:00:00</Start>
-                <Finish>2017-04-05T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-05T05:00:00</Start>
-                <Finish>2017-04-06T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-06T05:00:00</Start>
-                <Finish>2017-04-07T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-07T05:00:00</Start>
-                <Finish>2017-04-08T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-10T05:00:00</Start>
-                <Finish>2017-04-11T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-11T05:00:00</Start>
-                <Finish>2017-04-12T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-12T05:00:00</Start>
-                <Finish>2017-04-13T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-13T05:00:00</Start>
-                <Finish>2017-04-14T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-14T05:00:00</Start>
-                <Finish>2017-04-15T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-17T05:00:00</Start>
-                <Finish>2017-04-18T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-18T05:00:00</Start>
-                <Finish>2017-04-19T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-19T05:00:00</Start>
-                <Finish>2017-04-20T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-20T05:00:00</Start>
-                <Finish>2017-04-21T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-21T05:00:00</Start>
-                <Finish>2017-04-22T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-24T05:00:00</Start>
-                <Finish>2017-04-25T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-25T05:00:00</Start>
-                <Finish>2017-04-26T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-26T05:00:00</Start>
-                <Finish>2017-04-27T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-27T05:00:00</Start>
-                <Finish>2017-04-28T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-04-28T05:00:00</Start>
-                <Finish>2017-04-29T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-01T05:00:00</Start>
-                <Finish>2017-05-02T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-02T05:00:00</Start>
-                <Finish>2017-05-03T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-03T05:00:00</Start>
-                <Finish>2017-05-04T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-04T05:00:00</Start>
-                <Finish>2017-05-05T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-05T05:00:00</Start>
-                <Finish>2017-05-06T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-08T05:00:00</Start>
-                <Finish>2017-05-09T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-09T05:00:00</Start>
-                <Finish>2017-05-10T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-10T05:00:00</Start>
-                <Finish>2017-05-11T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-11T05:00:00</Start>
-                <Finish>2017-05-12T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-12T05:00:00</Start>
-                <Finish>2017-05-13T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-15T05:00:00</Start>
-                <Finish>2017-05-16T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-16T05:00:00</Start>
-                <Finish>2017-05-17T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-17T05:00:00</Start>
-                <Finish>2017-05-18T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-18T05:00:00</Start>
-                <Finish>2017-05-19T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-19T05:00:00</Start>
-                <Finish>2017-05-20T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-22T05:00:00</Start>
-                <Finish>2017-05-23T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-23T05:00:00</Start>
-                <Finish>2017-05-24T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-24T05:00:00</Start>
-                <Finish>2017-05-25T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-25T05:00:00</Start>
-                <Finish>2017-05-26T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-26T05:00:00</Start>
-                <Finish>2017-05-27T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-29T05:00:00</Start>
-                <Finish>2017-05-30T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-30T05:00:00</Start>
-                <Finish>2017-05-31T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-05-31T05:00:00</Start>
-                <Finish>2017-06-01T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-06-01T05:00:00</Start>
-                <Finish>2017-06-02T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-06-02T05:00:00</Start>
-                <Finish>2017-06-03T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-06-05T05:00:00</Start>
-                <Finish>2017-06-06T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-06-06T05:00:00</Start>
-                <Finish>2017-06-07T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-06-07T05:00:00</Start>
-                <Finish>2017-06-08T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-06-08T05:00:00</Start>
-                <Finish>2017-06-09T05:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT8H0M0S</Value>
-            </TimephasedData>
-            <TimephasedData>
-                <Type>1</Type>
-                <Start>2017-06-09T05:00:00</Start>
-                <Finish>2017-06-09T19:00:00</Finish>
-                <Unit>3</Unit>
-                <Value>PT5H0M0S</Value>
             </TimephasedData>
         </Assignment>
         <Assignment>
